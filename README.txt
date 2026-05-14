@@ -1,4 +1,4 @@
-BTL Bayes - Demo đầy đủ chức năng, bỏ phần lý thuyết/giới thiệu
+BTL Bayes - Demo đầy đủ chức năng
 ==================================================================
 
 File chính:
@@ -15,7 +15,7 @@ Cách chạy:
 2. Cài thư viện:
    pip install -r requirements.txt
 3. Chạy:
-   python bayes_full_experiment_app.py
+   python naive_bayes_manual_app.py
 
 Các chức năng trong bản này:
 - Tải dữ liệu CSV.
